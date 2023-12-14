@@ -2019,6 +2019,7 @@ xknx==2.11.2
 xknxproject==3.2.0
 
 # homeassistant.components.bluesound
+# homeassistant.components.dsn
 # homeassistant.components.fritz
 # homeassistant.components.rest
 # homeassistant.components.startca

@@ -107,6 +107,7 @@ FLOWS = {
         "dremel_3d_printer",
         "dsmr",
         "dsmr_reader",
+        "dsn",
         "dunehd",
         "duotecno",
         "dwd_weather_warnings",

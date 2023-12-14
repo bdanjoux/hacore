@@ -1233,6 +1233,12 @@
       "config_flow": true,
       "iot_class": "local_push"
     },
+    "dsn": {
+      "name": "DSN",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "dte_energy_bridge": {
       "name": "DTE Energy Bridge",
       "integration_type": "hub",
